@@ -1,3 +1,4 @@
+#python3
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         if len(nums) < 2:
