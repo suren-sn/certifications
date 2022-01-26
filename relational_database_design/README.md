@@ -1,7 +1,7 @@
-## Relational Database Design
+# Relational Database Design
 
 https://www.udemy.com/course/relational-database-design/
 
-### Instructors
+## Instructors
 
 Ben Brumm
