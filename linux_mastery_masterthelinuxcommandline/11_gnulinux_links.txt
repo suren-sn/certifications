@@ -1,0 +1,5 @@
+https://www.gnu.org/
+https://help.ubuntu.com/community/Repositories/Ubuntu
+https://packages.ubuntu.com/
+https://help.ubuntu.com/community/Repositories/CommandLine
+
